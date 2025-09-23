@@ -1,722 +1,482 @@
 [
   {
-    "id" : "875DDDC3-D98A-46E3-A395-684C8A9B68A2",
+    "clubName" : "Golf in Wall",
     "courses" : [
       {
+        "id" : "15D533E3-4CDC-4268-853D-F52ED499812F",
         "courseName" : "Kranichplatz",
         "teeSets" : [
           {
-            "id" : "3DAE9550-862C-4EC5-9CB6-1248DEFA44A5",
+            "category" : "Herren",
+            "name" : "Gelb",
             "holes" : [
               {
-                "par" : 3,
-                "number" : 1,
                 "handicap" : 4,
-                "meters" : 84
+                "meters" : 84,
+                "par" : 3,
+                "number" : 1
               },
               {
-                "par" : 4,
-                "number" : 2,
                 "handicap" : 9,
-                "meters" : 242
+                "meters" : 242,
+                "par" : 4,
+                "number" : 2
               },
               {
-                "par" : 4,
-                "number" : 3,
                 "handicap" : 2,
-                "meters" : 324
+                "meters" : 324,
+                "par" : 4,
+                "number" : 3
               },
               {
-                "par" : 3,
-                "number" : 4,
                 "handicap" : 1,
-                "meters" : 140
+                "meters" : 140,
+                "par" : 3,
+                "number" : 4
               },
               {
-                "par" : 3,
-                "number" : 5,
                 "handicap" : 8,
-                "meters" : 96
+                "meters" : 96,
+                "par" : 3,
+                "number" : 5
               },
               {
-                "par" : 3,
-                "number" : 6,
                 "handicap" : 3,
-                "meters" : 125
-              },
-              {
-                "par" : 4,
-                "number" : 7,
-                "handicap" : 5,
-                "meters" : 264
-              },
-              {
-                "par" : 4,
-                "number" : 8,
-                "handicap" : 7,
-                "meters" : 289
-              },
-              {
+                "meters" : 125,
                 "par" : 3,
-                "number" : 9,
+                "number" : 6
+              },
+              {
+                "handicap" : 5,
+                "meters" : 264,
+                "par" : 4,
+                "number" : 7
+              },
+              {
+                "handicap" : 7,
+                "meters" : 289,
+                "par" : 4,
+                "number" : 8
+              },
+              {
                 "handicap" : 6,
-                "meters" : 102
+                "meters" : 102,
+                "par" : 3,
+                "number" : 9
               }
-            ],
-            "name" : "Gelb (Herren)"
+            ]
           },
           {
-            "id" : "BF03C863-6DBA-4504-82D0-4708A7BF335E",
+            "category" : "Damen",
+            "name" : "Rot",
             "holes" : [
               {
-                "par" : 3,
-                "number" : 1,
                 "handicap" : 4,
-                "meters" : 77
+                "meters" : 77,
+                "par" : 3,
+                "number" : 1
               },
               {
-                "par" : 4,
-                "number" : 2,
                 "handicap" : 9,
-                "meters" : 227
+                "meters" : 227,
+                "par" : 4,
+                "number" : 2
               },
               {
-                "par" : 4,
-                "number" : 3,
                 "handicap" : 2,
-                "meters" : 290
+                "meters" : 290,
+                "par" : 4,
+                "number" : 3
               },
               {
-                "par" : 3,
-                "number" : 4,
                 "handicap" : 1,
-                "meters" : 130
+                "meters" : 130,
+                "par" : 3,
+                "number" : 4
               },
               {
-                "par" : 3,
-                "number" : 5,
                 "handicap" : 8,
-                "meters" : 96
+                "meters" : 96,
+                "par" : 3,
+                "number" : 5
               },
               {
-                "par" : 3,
-                "number" : 6,
                 "handicap" : 3,
-                "meters" : 107
-              },
-              {
-                "par" : 4,
-                "number" : 7,
-                "handicap" : 5,
-                "meters" : 241
-              },
-              {
-                "par" : 4,
-                "number" : 8,
-                "handicap" : 7,
-                "meters" : 253
-              },
-              {
+                "meters" : 107,
                 "par" : 3,
-                "number" : 9,
+                "number" : 6
+              },
+              {
+                "handicap" : 5,
+                "meters" : 241,
+                "par" : 4,
+                "number" : 7
+              },
+              {
+                "handicap" : 7,
+                "meters" : 253,
+                "par" : 4,
+                "number" : 8
+              },
+              {
                 "handicap" : 6,
-                "meters" : 87
+                "meters" : 87,
+                "par" : 3,
+                "number" : 9
               }
-            ],
-            "name" : "Rot (Damen)"
+            ]
           }
-        ],
-        "id" : "657A8700-2400-4FE8-81B2-9FA0F1CC9491"
+        ]
       },
       {
+        "id" : "26F8B2E9-6A93-4CAF-A853-4C23EF4E7665",
         "courseName" : "Fontaneplatz",
         "teeSets" : [
           {
-            "id" : "9E8F0738-EA72-43DB-B13C-1D200A28011C",
+            "category" : "Profi",
+            "name" : "Weiß",
             "holes" : [
               {
-                "par" : 4,
-                "number" : 1,
                 "handicap" : 13,
-                "meters" : 275
+                "meters" : 301,
+                "par" : 4,
+                "number" : 1
               },
               {
-                "par" : 5,
-                "number" : 2,
                 "handicap" : 7,
-                "meters" : 512
+                "meters" : 540,
+                "par" : 5,
+                "number" : 2
               },
               {
-                "par" : 4,
-                "number" : 3,
                 "handicap" : 11,
-                "meters" : 309
+                "meters" : 361,
+                "par" : 4,
+                "number" : 3
               },
               {
-                "par" : 4,
-                "number" : 4,
                 "handicap" : 1,
-                "meters" : 351
+                "meters" : 396,
+                "par" : 4,
+                "number" : 4
               },
               {
-                "par" : 3,
-                "number" : 5,
                 "handicap" : 17,
-                "meters" : 108
+                "meters" : 116,
+                "par" : 3,
+                "number" : 5
               },
               {
-                "par" : 4,
-                "number" : 6,
                 "handicap" : 3,
-                "meters" : 293
+                "meters" : 293,
+                "par" : 4,
+                "number" : 6
               },
               {
-                "par" : 4,
-                "number" : 7,
                 "handicap" : 5,
-                "meters" : 397
+                "meters" : 414,
+                "par" : 4,
+                "number" : 7
               },
               {
-                "par" : 5,
-                "number" : 8,
                 "handicap" : 9,
-                "meters" : 505
+                "meters" : 545,
+                "par" : 5,
+                "number" : 8
               },
               {
-                "par" : 3,
-                "number" : 9,
                 "handicap" : 15,
-                "meters" : 103
+                "meters" : 124,
+                "par" : 3,
+                "number" : 9
               },
               {
-                "par" : 4,
-                "number" : 10,
                 "handicap" : 14,
-                "meters" : 299
+                "meters" : 319,
+                "par" : 4,
+                "number" : 10
               },
               {
-                "par" : 4,
-                "number" : 11,
                 "handicap" : 8,
-                "meters" : 340
+                "meters" : 367,
+                "par" : 4,
+                "number" : 11
               },
               {
-                "par" : 4,
-                "number" : 12,
                 "handicap" : 12,
-                "meters" : 338
+                "meters" : 355,
+                "par" : 4,
+                "number" : 12
               },
               {
-                "par" : 5,
-                "number" : 13,
                 "handicap" : 2,
-                "meters" : 475
-              },
-              {
-                "par" : 3,
-                "number" : 14,
-                "handicap" : 18,
-                "meters" : 164
-              },
-              {
+                "meters" : 495,
                 "par" : 5,
-                "number" : 15,
-                "handicap" : 4,
-                "meters" : 462
+                "number" : 13
               },
               {
+                "handicap" : 18,
+                "meters" : 175,
                 "par" : 3,
-                "number" : 16,
+                "number" : 14
+              },
+              {
+                "handicap" : 4,
+                "meters" : 473,
+                "par" : 5,
+                "number" : 15
+              },
+              {
                 "handicap" : 10,
-                "meters" : 148
+                "meters" : 148,
+                "par" : 3,
+                "number" : 16
               },
               {
-                "par" : 4,
-                "number" : 17,
                 "handicap" : 6,
-                "meters" : 325
+                "meters" : 356,
+                "par" : 4,
+                "number" : 17
               },
               {
-                "par" : 4,
-                "number" : 18,
                 "handicap" : 16,
-                "meters" : 282
+                "meters" : 354,
+                "par" : 4,
+                "number" : 18
               }
-            ],
-            "name" : "Gelb (Herren)"
+            ]
           },
           {
-            "id" : "51E9B395-724A-490C-A77B-FC7741BE45A0",
+            "category" : "Herren",
+            "name" : "Gelb",
             "holes" : [
               {
-                "par" : 4,
-                "number" : 1,
                 "handicap" : 13,
-                "meters" : 301
+                "meters" : 275,
+                "par" : 4,
+                "number" : 1
               },
               {
-                "par" : 5,
-                "number" : 2,
                 "handicap" : 7,
-                "meters" : 540
+                "meters" : 512,
+                "par" : 5,
+                "number" : 2
               },
               {
-                "par" : 4,
-                "number" : 3,
                 "handicap" : 11,
-                "meters" : 361
+                "meters" : 309,
+                "par" : 4,
+                "number" : 3
               },
               {
-                "par" : 4,
-                "number" : 4,
                 "handicap" : 1,
-                "meters" : 396
+                "meters" : 351,
+                "par" : 4,
+                "number" : 4
               },
               {
-                "par" : 3,
-                "number" : 5,
                 "handicap" : 17,
-                "meters" : 116
+                "meters" : 108,
+                "par" : 3,
+                "number" : 5
               },
               {
-                "par" : 4,
-                "number" : 6,
                 "handicap" : 3,
-                "meters" : 293
+                "meters" : 293,
+                "par" : 4,
+                "number" : 6
               },
               {
-                "par" : 4,
-                "number" : 7,
                 "handicap" : 5,
-                "meters" : 414
+                "meters" : 397,
+                "par" : 4,
+                "number" : 7
               },
               {
-                "par" : 5,
-                "number" : 8,
                 "handicap" : 9,
-                "meters" : 545
+                "meters" : 505,
+                "par" : 5,
+                "number" : 8
               },
               {
-                "par" : 3,
-                "number" : 9,
                 "handicap" : 15,
-                "meters" : 124
+                "meters" : 103,
+                "par" : 3,
+                "number" : 9
               },
               {
-                "par" : 4,
-                "number" : 10,
                 "handicap" : 14,
-                "meters" : 319
+                "meters" : 299,
+                "par" : 4,
+                "number" : 10
               },
               {
-                "par" : 4,
-                "number" : 11,
                 "handicap" : 8,
-                "meters" : 367
+                "meters" : 340,
+                "par" : 4,
+                "number" : 11
               },
               {
-                "par" : 4,
-                "number" : 12,
                 "handicap" : 12,
-                "meters" : 355
+                "meters" : 338,
+                "par" : 4,
+                "number" : 12
               },
               {
-                "par" : 5,
-                "number" : 13,
                 "handicap" : 2,
-                "meters" : 495
-              },
-              {
-                "par" : 3,
-                "number" : 14,
-                "handicap" : 18,
-                "meters" : 175
-              },
-              {
+                "meters" : 475,
                 "par" : 5,
-                "number" : 15,
-                "handicap" : 4,
-                "meters" : 473
+                "number" : 13
               },
               {
+                "handicap" : 18,
+                "meters" : 164,
                 "par" : 3,
-                "number" : 16,
+                "number" : 14
+              },
+              {
+                "handicap" : 4,
+                "meters" : 462,
+                "par" : 5,
+                "number" : 15
+              },
+              {
                 "handicap" : 10,
-                "meters" : 148
+                "meters" : 148,
+                "par" : 3,
+                "number" : 16
               },
               {
-                "par" : 4,
-                "number" : 17,
                 "handicap" : 6,
-                "meters" : 356
+                "meters" : 325,
+                "par" : 4,
+                "number" : 17
               },
               {
-                "par" : 4,
-                "number" : 18,
                 "handicap" : 16,
-                "meters" : 354
+                "meters" : 282,
+                "par" : 4,
+                "number" : 18
               }
-            ],
-            "name" : "Weiß (Herren)"
+            ]
           },
           {
-            "id" : "9BE90196-2FA2-4C5D-91FE-7630ACA7DD22",
+            "category" : "Damen",
+            "name" : "Rot",
             "holes" : [
               {
-                "par" : 4,
-                "number" : 1,
                 "handicap" : 13,
-                "meters" : 252
+                "meters" : 252,
+                "par" : 4,
+                "number" : 1
               },
               {
-                "par" : 5,
-                "number" : 2,
                 "handicap" : 7,
-                "meters" : 456
+                "meters" : 456,
+                "par" : 5,
+                "number" : 2
               },
               {
-                "par" : 4,
-                "number" : 3,
                 "handicap" : 11,
-                "meters" : 284
+                "meters" : 284,
+                "par" : 4,
+                "number" : 3
               },
               {
-                "par" : 4,
-                "number" : 4,
                 "handicap" : 1,
-                "meters" : 282
+                "meters" : 282,
+                "par" : 4,
+                "number" : 4
               },
               {
-                "par" : 3,
-                "number" : 5,
                 "handicap" : 17,
-                "meters" : 94
+                "meters" : 94,
+                "par" : 3,
+                "number" : 5
               },
               {
-                "par" : 4,
-                "number" : 6,
                 "handicap" : 3,
-                "meters" : 267
+                "meters" : 267,
+                "par" : 4,
+                "number" : 6
               },
               {
-                "par" : 4,
-                "number" : 7,
                 "handicap" : 5,
-                "meters" : 332
+                "meters" : 332,
+                "par" : 4,
+                "number" : 7
               },
               {
-                "par" : 5,
-                "number" : 8,
                 "handicap" : 9,
-                "meters" : 431
+                "meters" : 431,
+                "par" : 5,
+                "number" : 8
               },
               {
-                "par" : 3,
-                "number" : 9,
                 "handicap" : 15,
-                "meters" : 93
+                "meters" : 93,
+                "par" : 3,
+                "number" : 9
               },
               {
-                "par" : 4,
-                "number" : 10,
                 "handicap" : 14,
-                "meters" : 270
+                "meters" : 270,
+                "par" : 4,
+                "number" : 10
               },
               {
-                "par" : 4,
-                "number" : 11,
                 "handicap" : 8,
-                "meters" : 300
+                "meters" : 300,
+                "par" : 4,
+                "number" : 11
               },
               {
-                "par" : 4,
-                "number" : 12,
                 "handicap" : 12,
-                "meters" : 291
+                "meters" : 291,
+                "par" : 4,
+                "number" : 12
               },
               {
-                "par" : 5,
-                "number" : 13,
                 "handicap" : 2,
-                "meters" : 403
-              },
-              {
-                "par" : 3,
-                "number" : 14,
-                "handicap" : 18,
-                "meters" : 129
-              },
-              {
+                "meters" : 403,
                 "par" : 5,
-                "number" : 15,
-                "handicap" : 4,
-                "meters" : 425
+                "number" : 13
               },
               {
+                "handicap" : 18,
+                "meters" : 129,
                 "par" : 3,
-                "number" : 16,
+                "number" : 14
+              },
+              {
+                "handicap" : 4,
+                "meters" : 425,
+                "par" : 5,
+                "number" : 15
+              },
+              {
                 "handicap" : 10,
-                "meters" : 96
+                "meters" : 96,
+                "par" : 3,
+                "number" : 16
               },
               {
-                "par" : 4,
-                "number" : 17,
                 "handicap" : 6,
-                "meters" : 286
+                "meters" : 286,
+                "par" : 4,
+                "number" : 17
               },
               {
-                "par" : 4,
-                "number" : 18,
                 "handicap" : 16,
-                "meters" : 262
+                "meters" : 262,
+                "par" : 4,
+                "number" : 18
               }
-            ],
-            "name" : "Rot (Damen)"
+            ]
           }
-        ],
-        "id" : "307503AB-E180-40B8-AF7E-3E2960226546"
+        ]
       }
     ],
-    "clubName" : "Golf in Wall"
-  },
-  {
-    "id" : "F5027B69-127A-43C0-B77D-61172910B228",
-    "courses" : [
-      {
-        "courseName" : "Harzplatz",
-        "teeSets" : [
-          {
-            "id" : "8487E04F-F88A-4533-8342-09402A2705A3",
-            "holes" : [
-              {
-                "par" : 4,
-                "number" : 1,
-                "handicap" : 15,
-                "meters" : 286
-              },
-              {
-                "par" : 3,
-                "number" : 2,
-                "handicap" : 7,
-                "meters" : 161
-              },
-              {
-                "par" : 4,
-                "number" : 3,
-                "handicap" : 5,
-                "meters" : 369
-              },
-              {
-                "par" : 4,
-                "number" : 4,
-                "handicap" : 3,
-                "meters" : 373
-              },
-              {
-                "par" : 5,
-                "number" : 5,
-                "handicap" : 13,
-                "meters" : 460
-              },
-              {
-                "par" : 3,
-                "number" : 6,
-                "handicap" : 11,
-                "meters" : 160
-              },
-              {
-                "par" : 4,
-                "number" : 7,
-                "handicap" : 1,
-                "meters" : 398
-              },
-              {
-                "par" : 5,
-                "number" : 8,
-                "handicap" : 9,
-                "meters" : 461
-              },
-              {
-                "par" : 4,
-                "number" : 9,
-                "handicap" : 17,
-                "meters" : 279
-              },
-              {
-                "par" : 4,
-                "number" : 10,
-                "handicap" : 2,
-                "meters" : 352
-              },
-              {
-                "par" : 3,
-                "number" : 11,
-                "handicap" : 18,
-                "meters" : 148
-              },
-              {
-                "par" : 4,
-                "number" : 12,
-                "handicap" : 10,
-                "meters" : 320
-              },
-              {
-                "par" : 5,
-                "number" : 13,
-                "handicap" : 12,
-                "meters" : 487
-              },
-              {
-                "par" : 4,
-                "number" : 14,
-                "handicap" : 6,
-                "meters" : 338
-              },
-              {
-                "par" : 5,
-                "number" : 15,
-                "handicap" : 14,
-                "meters" : 439
-              },
-              {
-                "par" : 3,
-                "number" : 16,
-                "handicap" : 8,
-                "meters" : 173
-              },
-              {
-                "par" : 4,
-                "number" : 17,
-                "handicap" : 4,
-                "meters" : 336
-              },
-              {
-                "par" : 4,
-                "number" : 18,
-                "handicap" : 16,
-                "meters" : 253
-              }
-            ],
-            "name" : "Gelb (Herren)"
-          },
-          {
-            "id" : "AB127694-7DC7-4116-B577-7B477CD109EC",
-            "holes" : [
-              {
-                "par" : 4,
-                "number" : 1,
-                "handicap" : 15,
-                "meters" : 247
-              },
-              {
-                "par" : 3,
-                "number" : 2,
-                "handicap" : 7,
-                "meters" : 131
-              },
-              {
-                "par" : 4,
-                "number" : 3,
-                "handicap" : 5,
-                "meters" : 333
-              },
-              {
-                "par" : 4,
-                "number" : 4,
-                "handicap" : 3,
-                "meters" : 335
-              },
-              {
-                "par" : 5,
-                "number" : 5,
-                "handicap" : 13,
-                "meters" : 390
-              },
-              {
-                "par" : 3,
-                "number" : 6,
-                "handicap" : 11,
-                "meters" : 129
-              },
-              {
-                "par" : 4,
-                "number" : 7,
-                "handicap" : 1,
-                "meters" : 353
-              },
-              {
-                "par" : 5,
-                "number" : 8,
-                "handicap" : 9,
-                "meters" : 407
-              },
-              {
-                "par" : 4,
-                "number" : 9,
-                "handicap" : 17,
-                "meters" : 228
-              },
-              {
-                "par" : 4,
-                "number" : 10,
-                "handicap" : 2,
-                "meters" : 312
-              },
-              {
-                "par" : 3,
-                "number" : 11,
-                "handicap" : 18,
-                "meters" : 121
-              },
-              {
-                "par" : 4,
-                "number" : 12,
-                "handicap" : 10,
-                "meters" : 271
-              },
-              {
-                "par" : 5,
-                "number" : 13,
-                "handicap" : 12,
-                "meters" : 408
-              },
-              {
-                "par" : 4,
-                "number" : 14,
-                "handicap" : 6,
-                "meters" : 298
-              },
-              {
-                "par" : 5,
-                "number" : 15,
-                "handicap" : 14,
-                "meters" : 387
-              },
-              {
-                "par" : 3,
-                "number" : 16,
-                "handicap" : 8,
-                "meters" : 157
-              },
-              {
-                "par" : 4,
-                "number" : 17,
-                "handicap" : 4,
-                "meters" : 281
-              },
-              {
-                "par" : 4,
-                "number" : 18,
-                "handicap" : 16,
-                "meters" : 231
-              }
-            ],
-            "name" : "Rot (Damen)"
-          }
-        ],
-        "id" : "233AB716-0816-403D-B72C-F723FFBC4AA6"
-      }
-    ],
-    "clubName" : "Golfclub Harz"
+    "id" : "55A098B9-3809-4115-897D-8595483B309D"
   }
 ]
