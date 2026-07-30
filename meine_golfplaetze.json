@@ -6,6 +6,7 @@
         "courseName" : "Kranichplatz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -69,6 +70,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -137,6 +139,7 @@
         "courseName" : "Fontaneplatz",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 0,
             "holes" : [
@@ -254,6 +257,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -371,6 +375,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -498,6 +503,7 @@
         "courseName" : "18-Loch-Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 71.3,
             "holes" : [
@@ -615,6 +621,7 @@
             "slopeRating" : 126
           },
           {
+            "category" : "Herren",
             "color" : "blau",
             "courseRating" : 69.5,
             "holes" : [
@@ -732,6 +739,7 @@
             "slopeRating" : 124
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 75.5,
             "holes" : [
@@ -849,6 +857,7 @@
             "slopeRating" : 130
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 72.2,
             "holes" : [
@@ -976,6 +985,7 @@
         "courseName" : "Pines",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 73.7,
             "holes" : [
@@ -1093,6 +1103,7 @@
             "slopeRating" : 129
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.3,
             "holes" : [
@@ -1210,6 +1221,7 @@
             "slopeRating" : 129
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 74.8,
             "holes" : [
@@ -1332,6 +1344,7 @@
         "courseName" : "Hunter's Nine",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 70.6,
             "holes" : [
@@ -1395,6 +1408,7 @@
             "slopeRating" : 126
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 72.6,
             "holes" : [
@@ -1468,6 +1482,7 @@
         "courseName" : "Robert-Baker-Platz",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 75.3,
             "holes" : [
@@ -1585,6 +1600,7 @@
             "slopeRating" : 139
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.4,
             "holes" : [
@@ -1702,6 +1718,7 @@
             "slopeRating" : 137
           },
           {
+            "category" : "Damen",
             "color" : "schwarz",
             "courseRating" : 75.1,
             "holes" : [
@@ -1819,6 +1836,7 @@
             "slopeRating" : 134
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 72.9,
             "holes" : [
@@ -1941,6 +1959,7 @@
         "courseName" : "brillen.de-Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 35.9,
             "holes" : [
@@ -2004,6 +2023,7 @@
             "slopeRating" : 127
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 37.2,
             "holes" : [
@@ -2077,6 +2097,7 @@
         "courseName" : "Platz A",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 0,
             "holes" : [
@@ -2140,6 +2161,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -2203,6 +2225,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 0,
             "holes" : [
@@ -2266,6 +2289,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -2334,6 +2358,7 @@
         "courseName" : "Platz B",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 0,
             "holes" : [
@@ -2397,6 +2422,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -2460,6 +2486,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 0,
             "holes" : [
@@ -2523,6 +2550,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -2591,6 +2619,7 @@
         "courseName" : "Platz C",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 0,
             "holes" : [
@@ -2654,6 +2683,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -2717,6 +2747,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 0,
             "holes" : [
@@ -2780,6 +2811,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -2853,6 +2885,7 @@
         "courseName" : "Nick Faldo Course",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 75.2,
             "holes" : [
@@ -2970,6 +3003,7 @@
             "slopeRating" : 150
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 73.1,
             "holes" : [
@@ -3087,6 +3121,7 @@
             "slopeRating" : 142
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 77.2,
             "holes" : [
@@ -3204,6 +3239,7 @@
             "slopeRating" : 143
           },
           {
+            "category" : "Damen",
             "color" : "orange",
             "courseRating" : 70.8,
             "holes" : [
@@ -3326,6 +3362,7 @@
         "courseName" : "Arnold Palmer Course",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 75.1,
             "holes" : [
@@ -3443,6 +3480,7 @@
             "slopeRating" : 149
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72,
             "holes" : [
@@ -3560,6 +3598,7 @@
             "slopeRating" : 141
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73.9,
             "holes" : [
@@ -3677,6 +3716,7 @@
             "slopeRating" : 139
           },
           {
+            "category" : "Damen",
             "color" : "orange",
             "courseRating" : 70.2,
             "holes" : [
@@ -3799,6 +3839,7 @@
         "courseName" : "Jake McEwan Course",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 0,
             "holes" : [
@@ -3862,6 +3903,7 @@
             "slopeRating" : 0
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 0,
             "holes" : [
@@ -3930,6 +3972,7 @@
         "courseName" : "Stan Eby Course",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 71.5,
             "holes" : [
@@ -4047,6 +4090,7 @@
             "slopeRating" : 138
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 69.6,
             "holes" : [
@@ -4164,6 +4208,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Damen",
             "color" : "gelb",
             "courseRating" : 75.8,
             "holes" : [
@@ -4281,6 +4326,7 @@
             "slopeRating" : 138
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 68.8,
             "holes" : [
@@ -4408,6 +4454,7 @@
         "courseName" : "18-Loch-Meisterschaftsplatz",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 72.8,
             "holes" : [
@@ -4525,6 +4572,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72,
             "holes" : [
@@ -4642,6 +4690,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 75.8,
             "holes" : [
@@ -4759,6 +4808,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 74.2,
             "holes" : [
@@ -4881,6 +4931,7 @@
         "courseName" : "9-Loch-Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 31.6,
             "holes" : [
@@ -4944,6 +4995,7 @@
             "slopeRating" : 119
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 32.3,
             "holes" : [
@@ -5007,6 +5059,7 @@
             "slopeRating" : 110
           },
           {
+            "category" : "Herren",
             "color" : "grün",
             "courseRating" : 29.3,
             "holes" : [
@@ -5080,6 +5133,7 @@
         "courseName" : "Sepp-Maier-Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.1,
             "holes" : [
@@ -5207,6 +5261,7 @@
         "courseName" : "18-Loch-Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 70.3,
             "holes" : [
@@ -5324,6 +5379,7 @@
             "slopeRating" : 126
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 72.3,
             "holes" : [
@@ -5451,6 +5507,7 @@
         "courseName" : "Westplatz",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "schwarz",
             "courseRating" : 74.6,
             "holes" : [
@@ -5568,6 +5625,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 73.1,
             "holes" : [
@@ -5685,6 +5743,7 @@
             "slopeRating" : 127
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 71.7,
             "holes" : [
@@ -5802,6 +5861,7 @@
             "slopeRating" : 126
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 74.8,
             "holes" : [
@@ -5919,6 +5979,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73,
             "holes" : [
@@ -6041,6 +6102,7 @@
         "courseName" : "Ostplatz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 74.3,
             "holes" : [
@@ -6158,6 +6220,7 @@
             "slopeRating" : 129
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.2,
             "holes" : [
@@ -6275,6 +6338,7 @@
             "slopeRating" : 129
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 75.8,
             "holes" : [
@@ -6392,6 +6456,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73.7,
             "holes" : [
@@ -6519,6 +6584,7 @@
         "courseName" : "Nordplatz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 73.5,
             "holes" : [
@@ -6636,6 +6702,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 71.5,
             "holes" : [
@@ -6753,6 +6820,7 @@
             "slopeRating" : 133
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 74,
             "holes" : [
@@ -6875,6 +6943,7 @@
         "courseName" : "Südplatz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 74.8,
             "holes" : [
@@ -6992,6 +7061,7 @@
             "slopeRating" : 137
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.3,
             "holes" : [
@@ -7109,6 +7179,7 @@
             "slopeRating" : 136
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 75.6,
             "holes" : [
@@ -7236,6 +7307,7 @@
         "courseName" : "Sandy Lyle Course",
         "teeSets" : [
           {
+            "category" : "Profi",
             "color" : "weiß",
             "courseRating" : 73.6,
             "holes" : [
@@ -7353,6 +7425,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 71.5,
             "holes" : [
@@ -7470,6 +7543,7 @@
             "slopeRating" : 132
           },
           {
+            "category" : "Herren",
             "color" : "blau",
             "courseRating" : 69.6,
             "holes" : [
@@ -7587,6 +7661,7 @@
             "slopeRating" : 127
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 75.6,
             "holes" : [
@@ -7704,6 +7779,7 @@
             "slopeRating" : 134
           },
           {
+            "category" : "Herren",
             "color" : "rot",
             "courseRating" : 67.9,
             "holes" : [
@@ -7821,6 +7897,7 @@
             "slopeRating" : 122
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73.2,
             "holes" : [
@@ -7938,6 +8015,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Herren",
             "color" : "orange",
             "courseRating" : 66.8,
             "holes" : [
@@ -8055,6 +8133,7 @@
             "slopeRating" : 121
           },
           {
+            "category" : "Damen",
             "color" : "orange",
             "courseRating" : 71,
             "holes" : [
@@ -8177,6 +8256,7 @@
         "courseName" : "Westside Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 69.4,
             "holes" : [
@@ -8294,6 +8374,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Damen",
             "color" : "gelb",
             "courseRating" : 75.6,
             "holes" : [
@@ -8411,6 +8492,7 @@
             "slopeRating" : 130
           },
           {
+            "category" : "Herren",
             "color" : "rot",
             "courseRating" : 66.1,
             "holes" : [
@@ -8528,6 +8610,7 @@
             "slopeRating" : 117
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 71.5,
             "holes" : [
@@ -8645,6 +8728,7 @@
             "slopeRating" : 120
           },
           {
+            "category" : "Herren",
             "color" : "orange",
             "courseRating" : 64.2,
             "holes" : [
@@ -8762,6 +8846,7 @@
             "slopeRating" : 114
           },
           {
+            "category" : "Damen",
             "color" : "orange",
             "courseRating" : 68.7,
             "holes" : [
@@ -8889,6 +8974,7 @@
         "courseName" : "Fontane Course",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 74,
             "holes" : [
@@ -9006,6 +9092,7 @@
             "slopeRating" : 131
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.8,
             "holes" : [
@@ -9123,6 +9210,7 @@
             "slopeRating" : 133
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 76.3,
             "holes" : [
@@ -9240,6 +9328,7 @@
             "slopeRating" : 135
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 75,
             "holes" : [
@@ -9362,6 +9451,7 @@
         "courseName" : "Lenné Course",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 70.4,
             "holes" : [
@@ -9425,6 +9515,7 @@
             "slopeRating" : 125
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 71.6,
             "holes" : [
@@ -9498,6 +9589,7 @@
         "courseName" : "Kurs A",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 74.9,
             "holes" : [
@@ -9561,6 +9653,7 @@
             "slopeRating" : 126
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.7,
             "holes" : [
@@ -9624,6 +9717,7 @@
             "slopeRating" : 127
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 77.3,
             "holes" : [
@@ -9687,6 +9781,7 @@
             "slopeRating" : 135
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 75.2,
             "holes" : [
@@ -9755,6 +9850,7 @@
         "courseName" : "Kurs B",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 73.9,
             "holes" : [
@@ -9818,6 +9914,7 @@
             "slopeRating" : 130
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 72.3,
             "holes" : [
@@ -9881,6 +9978,7 @@
             "slopeRating" : 125
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 75.3,
             "holes" : [
@@ -9944,6 +10042,7 @@
             "slopeRating" : 127
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73.6,
             "holes" : [
@@ -10012,6 +10111,7 @@
         "courseName" : "Kurs C",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "weiß",
             "courseRating" : 72.5,
             "holes" : [
@@ -10075,6 +10175,7 @@
             "slopeRating" : 140
           },
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 70.5,
             "holes" : [
@@ -10138,6 +10239,7 @@
             "slopeRating" : 137
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 74.5,
             "holes" : [
@@ -10201,6 +10303,7 @@
             "slopeRating" : 135
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 72.6,
             "holes" : [
@@ -10274,6 +10377,7 @@
         "courseName" : "18-Loch Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 71.6,
             "holes" : [
@@ -10391,6 +10495,7 @@
             "slopeRating" : 128
           },
           {
+            "category" : "Herren",
             "color" : "blau",
             "courseRating" : 68.7,
             "holes" : [
@@ -10508,6 +10613,7 @@
             "slopeRating" : 125
           },
           {
+            "category" : "Damen",
             "color" : "blau",
             "courseRating" : 74.6,
             "holes" : [
@@ -10625,6 +10731,7 @@
             "slopeRating" : 129
           },
           {
+            "category" : "Herren",
             "color" : "rot",
             "courseRating" : 67.9,
             "holes" : [
@@ -10742,6 +10849,7 @@
             "slopeRating" : 124
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 73.4,
             "holes" : [
@@ -10864,6 +10972,7 @@
         "courseName" : "9-Loch Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 61.7,
             "holes" : [
@@ -10927,6 +11036,7 @@
             "slopeRating" : 113
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 62.4,
             "holes" : [
@@ -11000,6 +11110,7 @@
         "courseName" : "9-Loch Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 61.2,
             "holes" : [
@@ -11063,6 +11174,7 @@
             "slopeRating" : 115
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 61.4,
             "holes" : [
@@ -11136,6 +11248,7 @@
         "courseName" : "9-Loch Platz",
         "teeSets" : [
           {
+            "category" : "Herren",
             "color" : "gelb",
             "courseRating" : 62,
             "holes" : [
@@ -11199,6 +11312,7 @@
             "slopeRating" : 102
           },
           {
+            "category" : "Damen",
             "color" : "rot",
             "courseRating" : 62.8,
             "holes" : [

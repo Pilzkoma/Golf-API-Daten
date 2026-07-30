@@ -42,7 +42,7 @@
 
 ---
 
-## JSON-Struktur (aktuell, seit GolfDataEditor-TeeColor-Migration)
+## JSON-Struktur (aktuell)
 
 ```json
 {
@@ -53,6 +53,7 @@
       "id" : "UUID",
       "name" : "Gelb",
       "color" : "gelb",
+      "category" : "Herren",
       "courseRating" : 72.3,
       "slopeRating" : 129,
       "holes" : [
@@ -63,12 +64,11 @@
 }
 ```
 
-- **`color`** ersetzt das frühere `category` (`"Herren"`/`"Damen"`/`"Profi"`).
-  Der Editor liest Altdaten mit `category` noch, schreibt aber nur `color`.
-- ⚠️ **Verlust bei der Migration:** Kurse mit gleichfarbigen Herren-/Damen-Tees
-  (z. B. Kallin 18h Blau, Wilkendorf, Gatow, Bad Saarow) sind seither nur noch
-  über CR/SR unterscheidbar. Vor-Migrations-Stand mit `category` liegt auf
-  `main` (Commit 6ae6eea).
+- **`color`** ist die primäre Tee-Identität (`weiß`/`gelb`/`rot`/… klein).
+- **`category`** (`"Herren"`/`"Damen"`/`"Profi"`/`"Senioren"`, optional)
+  unterscheidet gleichfarbige Tees — z. B. Kallin 18h „Blau Herren CR68.7"
+  vs. „Blau Damen CR74.6". Editor und App schreiben/erhalten das Feld,
+  wenn es vorhanden ist; erfunden wird es nie.
 - Club- und Kurs-`id`s werden vom Editor nicht mehr geschrieben (nur noch
   TeeSet-`id`s). Die alte UUID-Nummerierung (0024–0027) ist damit obsolet.
 
