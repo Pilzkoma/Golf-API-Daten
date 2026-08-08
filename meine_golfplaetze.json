@@ -11378,5 +11378,251 @@
         ]
       }
     ]
+  },
+  {
+    "clubName" : "Golf Club Harz",
+    "courses" : [
+      {
+        "courseName" : "18-Loch Platz",
+        "teeSets" : [
+          {
+            "category" : "Herren",
+            "color" : "gelb",
+            "courseRating" : 0,
+            "holes" : [
+              {
+                "handicap" : 15,
+                "meters" : 286,
+                "number" : 1,
+                "par" : 4
+              },
+              {
+                "handicap" : 7,
+                "meters" : 161,
+                "number" : 2,
+                "par" : 3
+              },
+              {
+                "handicap" : 5,
+                "meters" : 369,
+                "number" : 3,
+                "par" : 4
+              },
+              {
+                "handicap" : 3,
+                "meters" : 373,
+                "number" : 4,
+                "par" : 4
+              },
+              {
+                "handicap" : 13,
+                "meters" : 460,
+                "number" : 5,
+                "par" : 5
+              },
+              {
+                "handicap" : 11,
+                "meters" : 160,
+                "number" : 6,
+                "par" : 3
+              },
+              {
+                "handicap" : 1,
+                "meters" : 398,
+                "number" : 7,
+                "par" : 4
+              },
+              {
+                "handicap" : 9,
+                "meters" : 461,
+                "number" : 8,
+                "par" : 5
+              },
+              {
+                "handicap" : 17,
+                "meters" : 279,
+                "number" : 9,
+                "par" : 4
+              },
+              {
+                "handicap" : 2,
+                "meters" : 352,
+                "number" : 10,
+                "par" : 4
+              },
+              {
+                "handicap" : 18,
+                "meters" : 148,
+                "number" : 11,
+                "par" : 3
+              },
+              {
+                "handicap" : 10,
+                "meters" : 320,
+                "number" : 12,
+                "par" : 4
+              },
+              {
+                "handicap" : 12,
+                "meters" : 487,
+                "number" : 13,
+                "par" : 5
+              },
+              {
+                "handicap" : 6,
+                "meters" : 338,
+                "number" : 14,
+                "par" : 4
+              },
+              {
+                "handicap" : 14,
+                "meters" : 439,
+                "number" : 15,
+                "par" : 5
+              },
+              {
+                "handicap" : 8,
+                "meters" : 173,
+                "number" : 16,
+                "par" : 3
+              },
+              {
+                "handicap" : 4,
+                "meters" : 336,
+                "number" : 17,
+                "par" : 4
+              },
+              {
+                "handicap" : 16,
+                "meters" : 253,
+                "number" : 18,
+                "par" : 4
+              }
+            ],
+            "id" : "C44193D5-E87E-420B-A711-D5ECB8E35A7C",
+            "name" : "Herren (Gelb)",
+            "slopeRating" : 0
+          },
+          {
+            "category" : "Damen",
+            "color" : "rot",
+            "courseRating" : 0,
+            "holes" : [
+              {
+                "handicap" : 15,
+                "meters" : 247,
+                "number" : 1,
+                "par" : 4
+              },
+              {
+                "handicap" : 7,
+                "meters" : 131,
+                "number" : 2,
+                "par" : 3
+              },
+              {
+                "handicap" : 5,
+                "meters" : 333,
+                "number" : 3,
+                "par" : 4
+              },
+              {
+                "handicap" : 3,
+                "meters" : 335,
+                "number" : 4,
+                "par" : 4
+              },
+              {
+                "handicap" : 13,
+                "meters" : 390,
+                "number" : 5,
+                "par" : 5
+              },
+              {
+                "handicap" : 11,
+                "meters" : 129,
+                "number" : 6,
+                "par" : 3
+              },
+              {
+                "handicap" : 1,
+                "meters" : 353,
+                "number" : 7,
+                "par" : 4
+              },
+              {
+                "handicap" : 9,
+                "meters" : 407,
+                "number" : 8,
+                "par" : 5
+              },
+              {
+                "handicap" : 17,
+                "meters" : 228,
+                "number" : 9,
+                "par" : 4
+              },
+              {
+                "handicap" : 2,
+                "meters" : 312,
+                "number" : 10,
+                "par" : 4
+              },
+              {
+                "handicap" : 18,
+                "meters" : 121,
+                "number" : 11,
+                "par" : 3
+              },
+              {
+                "handicap" : 10,
+                "meters" : 271,
+                "number" : 12,
+                "par" : 4
+              },
+              {
+                "handicap" : 12,
+                "meters" : 408,
+                "number" : 13,
+                "par" : 5
+              },
+              {
+                "handicap" : 6,
+                "meters" : 298,
+                "number" : 14,
+                "par" : 4
+              },
+              {
+                "handicap" : 14,
+                "meters" : 387,
+                "number" : 15,
+                "par" : 5
+              },
+              {
+                "handicap" : 8,
+                "meters" : 157,
+                "number" : 16,
+                "par" : 3
+              },
+              {
+                "handicap" : 4,
+                "meters" : 281,
+                "number" : 17,
+                "par" : 4
+              },
+              {
+                "handicap" : 16,
+                "meters" : 231,
+                "number" : 18,
+                "par" : 4
+              }
+            ],
+            "id" : "4ED98744-F43C-47C2-9B9D-5CAD64A95659",
+            "name" : "Damen (Rot)",
+            "slopeRating" : 0
+          }
+        ]
+      }
+    ]
   }
 ]
