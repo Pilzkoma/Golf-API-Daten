@@ -1,0 +1,1266 @@
+[
+  {
+    "clubName" : "Golf in Wall",
+    "courseName" : "Fontaneplatz",
+    "holes" : [
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8295556,
+          "longitude" : 12.9718889
+        },
+        "holeNumber" : 1,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8273889,
+            "longitude" : 12.9728611
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.83125,
+          "longitude" : 12.9629722
+        },
+        "holeNumber" : 2,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8306111,
+            "longitude" : 12.9692778
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8311944,
+          "longitude" : 12.9564444
+        },
+        "holeNumber" : 3,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8311111,
+            "longitude" : 12.9610278
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.833,
+          "longitude" : 12.9513056
+        },
+        "holeNumber" : 4,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8310278,
+            "longitude" : 12.9551389
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8337778,
+          "longitude" : 12.9515556
+        },
+        "holeNumber" : 5,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8332222,
+            "longitude" : 12.9503333
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8317222,
+          "longitude" : 12.9550278
+        },
+        "holeNumber" : 6,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8336944,
+            "longitude" : 12.9528889
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 7,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8310278,
+            "longitude" : 12.9555278
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8279167,
+          "longitude" : 12.9676667
+        },
+        "holeNumber" : 8,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8294167,
+            "longitude" : 12.9608056
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8273333,
+          "longitude" : 12.9706667
+        },
+        "holeNumber" : 9,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8276944,
+            "longitude" : 12.9690556
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8292778,
+          "longitude" : 12.9688611
+        },
+        "holeNumber" : 10,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8275,
+            "longitude" : 12.9716944
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8289167,
+          "longitude" : 12.9655278
+        },
+        "holeNumber" : 11,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8303889,
+            "longitude" : 12.9699167
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8311667,
+          "longitude" : 12.9616111
+        },
+        "holeNumber" : 12,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8288056,
+            "longitude" : 12.9646389
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8319722,
+          "longitude" : 12.9556389
+        },
+        "holeNumber" : 13,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8316389,
+            "longitude" : 12.9614722
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8327778,
+          "longitude" : 12.9578333
+        },
+        "holeNumber" : 14,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.83325,
+            "longitude" : 12.9556389
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8316667,
+          "longitude" : 12.9656667
+        },
+        "holeNumber" : 15,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8326667,
+            "longitude" : 12.9589722
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8312222,
+          "longitude" : 12.9641944
+        },
+        "holeNumber" : 16,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8313333,
+            "longitude" : 12.9661944
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8310833,
+          "longitude" : 12.9706111
+        },
+        "holeNumber" : 17,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8308611,
+            "longitude" : 12.9658333
+          }
+        }
+      },
+      {
+        "alternateTeePoints" : {
+          "gelb" : {
+            "latitude" : 52.8300833,
+            "longitude" : 12.9701667
+          }
+        },
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.8278056,
+          "longitude" : 12.9720278
+        },
+        "holeNumber" : 18,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.8302778,
+            "longitude" : 12.9709167
+          }
+        }
+      }
+    ]
+  },
+  {
+    "clubName" : "Potsdamer Golfclub",
+    "courseName" : "18-Loch-Platz",
+    "holes" : [
+      {
+        "bunkers" : [
+          {
+            "points" : [
+              {
+                "latitude" : 52.50311,
+                "longitude" : 12.8106251
+              },
+              {
+                "latitude" : 52.5031284,
+                "longitude" : 12.8105836
+              },
+              {
+                "latitude" : 52.5031567,
+                "longitude" : 12.810602
+              },
+              {
+                "latitude" : 52.5031649,
+                "longitude" : 12.8106689
+              },
+              {
+                "latitude" : 52.5031505,
+                "longitude" : 12.8107082
+              },
+              {
+                "latitude" : 52.5031223,
+                "longitude" : 12.8106977
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.502895,
+                "longitude" : 12.8108177
+              },
+              {
+                "latitude" : 52.5028917,
+                "longitude" : 12.8107667
+              },
+              {
+                "latitude" : 52.5029203,
+                "longitude" : 12.8107493
+              },
+              {
+                "latitude" : 52.5029603,
+                "longitude" : 12.8107801
+              },
+              {
+                "latitude" : 52.5029824,
+                "longitude" : 12.8108257
+              },
+              {
+                "latitude" : 52.5029758,
+                "longitude" : 12.810874
+              },
+              {
+                "latitude" : 52.5029415,
+                "longitude" : 12.8108646
+              }
+            ]
+          }
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.502944,
+              "longitude" : 12.8107131
+            },
+            {
+              "latitude" : 52.5029048,
+              "longitude" : 12.8105468
+            },
+            {
+              "latitude" : 52.5029701,
+              "longitude" : 12.8104502
+            },
+            {
+              "latitude" : 52.5030632,
+              "longitude" : 12.8105119
+            },
+            {
+              "latitude" : 52.5030877,
+              "longitude" : 12.8106245
+            },
+            {
+              "latitude" : 52.5030599,
+              "longitude" : 12.8107452
+            },
+            {
+              "latitude" : 52.5029962,
+              "longitude" : 12.810756
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.502984113436526,
+          "longitude" : 12.810626637361937
+        },
+        "holeNumber" : 1,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.506288493488164,
+            "longitude" : 12.814072189100601
+          }
+        }
+      },
+      {
+        "bunkers" : [
+          {
+            "points" : [
+              {
+                "latitude" : 52.5032831,
+                "longitude" : 12.8092063
+              },
+              {
+                "latitude" : 52.5033014,
+                "longitude" : 12.8091648
+              },
+              {
+                "latitude" : 52.5033298,
+                "longitude" : 12.8091832
+              },
+              {
+                "latitude" : 52.5033233,
+                "longitude" : 12.8092407
+              },
+              {
+                "latitude" : 52.5032975,
+                "longitude" : 12.8092767
+              },
+              {
+                "latitude" : 52.5032917,
+                "longitude" : 12.8093323
+              },
+              {
+                "latitude" : 52.5032656,
+                "longitude" : 12.8093465
+              },
+              {
+                "latitude" : 52.5032509,
+                "longitude" : 12.809315
+              },
+              {
+                "latitude" : 52.5032537,
+                "longitude" : 12.8092762
+              },
+              {
+                "latitude" : 52.5032322,
+                "longitude" : 12.8092204
+              },
+              {
+                "latitude" : 52.5032546,
+                "longitude" : 12.8091909
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5030949,
+                "longitude" : 12.8086745
+              },
+              {
+                "latitude" : 52.5031133,
+                "longitude" : 12.808633
+              },
+              {
+                "latitude" : 52.5031416,
+                "longitude" : 12.8086515
+              },
+              {
+                "latitude" : 52.5031498,
+                "longitude" : 12.8087183
+              },
+              {
+                "latitude" : 52.5031101,
+                "longitude" : 12.8087657
+              },
+              {
+                "latitude" : 52.5030753,
+                "longitude" : 12.8087364
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5033517,
+                "longitude" : 12.8088348
+              },
+              {
+                "latitude" : 52.50337,
+                "longitude" : 12.8087933
+              },
+              {
+                "latitude" : 52.5033983,
+                "longitude" : 12.8088117
+              },
+              {
+                "latitude" : 52.5034065,
+                "longitude" : 12.8088786
+              },
+              {
+                "latitude" : 52.5033962,
+                "longitude" : 12.8089407
+              },
+              {
+                "latitude" : 52.5033394,
+                "longitude" : 12.8089369
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5028153,
+                "longitude" : 12.8104534
+              },
+              {
+                "latitude" : 52.5028336,
+                "longitude" : 12.8104119
+              },
+              {
+                "latitude" : 52.5028619,
+                "longitude" : 12.8104304
+              },
+              {
+                "latitude" : 52.5028701,
+                "longitude" : 12.8104973
+              },
+              {
+                "latitude" : 52.5028557,
+                "longitude" : 12.8105366
+              },
+              {
+                "latitude" : 52.5028307,
+                "longitude" : 12.8105394
+              }
+            ]
+          }
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5031389,
+              "longitude" : 12.8090262
+            },
+            {
+              "latitude" : 52.5031077,
+              "longitude" : 12.8089031
+            },
+            {
+              "latitude" : 52.5031468,
+              "longitude" : 12.8087863
+            },
+            {
+              "latitude" : 52.5032268,
+              "longitude" : 12.8087638
+            },
+            {
+              "latitude" : 52.5032874,
+              "longitude" : 12.8088524
+            },
+            {
+              "latitude" : 52.503283,
+              "longitude" : 12.8089855
+            },
+            {
+              "latitude" : 52.5032169,
+              "longitude" : 12.8090629
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50320106837731,
+          "longitude" : 12.808911462188362
+        },
+        "holeNumber" : 2,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5058347,
+              "longitude" : 12.8114258
+            },
+            {
+              "latitude" : 52.5057978,
+              "longitude" : 12.8112803
+            },
+            {
+              "latitude" : 52.5058522,
+              "longitude" : 12.8111798
+            },
+            {
+              "latitude" : 52.5059386,
+              "longitude" : 12.8111612
+            },
+            {
+              "latitude" : 52.5060102,
+              "longitude" : 12.8112204
+            },
+            {
+              "latitude" : 52.506005,
+              "longitude" : 12.8113778
+            },
+            {
+              "latitude" : 52.5059269,
+              "longitude" : 12.8114397
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50590903634986,
+          "longitude" : 12.811301279600285
+        },
+        "holeNumber" : 3,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+          {
+            "points" : [
+              {
+                "latitude" : 52.5036122,
+                "longitude" : 12.8091966
+              },
+              {
+                "latitude" : 52.5036096,
+                "longitude" : 12.809139
+              },
+              {
+                "latitude" : 52.5036488,
+                "longitude" : 12.8091196
+              },
+              {
+                "latitude" : 52.5036867,
+                "longitude" : 12.809138
+              },
+              {
+                "latitude" : 52.5037005,
+                "longitude" : 12.8091895
+              },
+              {
+                "latitude" : 52.5036772,
+                "longitude" : 12.8092233
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5037567,
+                "longitude" : 12.8092891
+              },
+              {
+                "latitude" : 52.5037459,
+                "longitude" : 12.809245
+              },
+              {
+                "latitude" : 52.503768,
+                "longitude" : 12.8092175
+              },
+              {
+                "latitude" : 52.5038214,
+                "longitude" : 12.8092426
+              },
+              {
+                "latitude" : 52.5038352,
+                "longitude" : 12.8092941
+              },
+              {
+                "latitude" : 52.5038029,
+                "longitude" : 12.8093159
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5038024,
+                "longitude" : 12.809752
+              },
+              {
+                "latitude" : 52.5038014,
+                "longitude" : 12.8097172
+              },
+              {
+                "latitude" : 52.5038292,
+                "longitude" : 12.8096871
+              },
+              {
+                "latitude" : 52.5038671,
+                "longitude" : 12.8097055
+              },
+              {
+                "latitude" : 52.5038808,
+                "longitude" : 12.809757
+              },
+              {
+                "latitude" : 52.5038485,
+                "longitude" : 12.8097788
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5038073,
+                "longitude" : 12.8094763
+              },
+              {
+                "latitude" : 52.5038307,
+                "longitude" : 12.809456
+              },
+              {
+                "latitude" : 52.5038531,
+                "longitude" : 12.809479
+              },
+              {
+                "latitude" : 52.5038546,
+                "longitude" : 12.8095439
+              },
+              {
+                "latitude" : 52.5038271,
+                "longitude" : 12.8095588
+              },
+              {
+                "latitude" : 52.5038064,
+                "longitude" : 12.8095385
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5037461,
+                "longitude" : 12.8096533
+              },
+              {
+                "latitude" : 52.5037695,
+                "longitude" : 12.809633
+              },
+              {
+                "latitude" : 52.5037918,
+                "longitude" : 12.809656
+              },
+              {
+                "latitude" : 52.5037909,
+                "longitude" : 12.8096994
+              },
+              {
+                "latitude" : 52.5037676,
+                "longitude" : 12.8097198
+              },
+              {
+                "latitude" : 52.5037452,
+                "longitude" : 12.8096967
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5038388,
+                "longitude" : 12.8095981
+              },
+              {
+                "latitude" : 52.5038622,
+                "longitude" : 12.8095777
+              },
+              {
+                "latitude" : 52.5038845,
+                "longitude" : 12.8096008
+              },
+              {
+                "latitude" : 52.5038836,
+                "longitude" : 12.8096442
+              },
+              {
+                "latitude" : 52.5038603,
+                "longitude" : 12.8096645
+              },
+              {
+                "latitude" : 52.5038379,
+                "longitude" : 12.8096414
+              }
+            ]
+          },
+          {
+            "points" : [
+              {
+                "latitude" : 52.5038995,
+                "longitude" : 12.8095938
+              },
+              {
+                "latitude" : 52.5039219,
+                "longitude" : 12.8095577
+              },
+              {
+                "latitude" : 52.5039502,
+                "longitude" : 12.8095762
+              },
+              {
+                "latitude" : 52.5039584,
+                "longitude" : 12.809643
+              },
+              {
+                "latitude" : 52.5039187,
+                "longitude" : 12.8096904
+              },
+              {
+                "latitude" : 52.5039003,
+                "longitude" : 12.8096463
+              }
+            ]
+          }
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5035646,
+              "longitude" : 12.8095915
+            },
+            {
+              "latitude" : 52.5035278,
+              "longitude" : 12.809446
+            },
+            {
+              "latitude" : 52.503574,
+              "longitude" : 12.809308
+            },
+            {
+              "latitude" : 52.5036686,
+              "longitude" : 12.8092813
+            },
+            {
+              "latitude" : 52.5037402,
+              "longitude" : 12.8093861
+            },
+            {
+              "latitude" : 52.503735,
+              "longitude" : 12.8095435
+            },
+            {
+              "latitude" : 52.5036568,
+              "longitude" : 12.8096349
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50363815567504,
+          "longitude" : 12.809455901723945
+        },
+        "holeNumber" : 4,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "fairway" : {
+          "points" : [
+            {
+              "latitude" : 52.5040526,
+              "longitude" : 12.8115767
+            },
+            {
+              "latitude" : 52.5039644,
+              "longitude" : 12.8111958
+            },
+            {
+              "latitude" : 52.5041636,
+              "longitude" : 12.8110027
+            },
+            {
+              "latitude" : 52.5049701,
+              "longitude" : 12.8117859
+            },
+            {
+              "latitude" : 52.5057375,
+              "longitude" : 12.812081
+            },
+            {
+              "latitude" : 52.5057081,
+              "longitude" : 12.8124994
+            },
+            {
+              "latitude" : 52.5055089,
+              "longitude" : 12.8125852
+            },
+            {
+              "latitude" : 52.504735,
+              "longitude" : 12.8122741
+            }
+          ]
+        },
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5059065,
+              "longitude" : 12.8124316
+            },
+            {
+              "latitude" : 52.5058109,
+              "longitude" : 12.8123023
+            },
+            {
+              "latitude" : 52.5058555,
+              "longitude" : 12.8122232
+            },
+            {
+              "latitude" : 52.5059876,
+              "longitude" : 12.8122529
+            },
+            {
+              "latitude" : 52.5061735,
+              "longitude" : 12.8123067
+            },
+            {
+              "latitude" : 52.5062042,
+              "longitude" : 12.8124909
+            },
+            {
+              "latitude" : 52.506015,
+              "longitude" : 12.8125152
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50601734208639,
+          "longitude" : 12.812371350090533
+        },
+        "holeNumber" : 5,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5025767,
+              "longitude" : 12.8117225
+            },
+            {
+              "latitude" : 52.5025268,
+              "longitude" : 12.8115108
+            },
+            {
+              "latitude" : 52.5026099,
+              "longitude" : 12.8113879
+            },
+            {
+              "latitude" : 52.5027284,
+              "longitude" : 12.8114665
+            },
+            {
+              "latitude" : 52.5027595,
+              "longitude" : 12.8116098
+            },
+            {
+              "latitude" : 52.5027242,
+              "longitude" : 12.8117635
+            },
+            {
+              "latitude" : 52.5026432,
+              "longitude" : 12.8117771
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50264718274151,
+          "longitude" : 12.811589065399717
+        },
+        "holeNumber" : 6,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+          {
+            "points" : [
+              {
+                "latitude" : 52.5025391,
+                "longitude" : 12.8129795
+              },
+              {
+                "latitude" : 52.5023889,
+                "longitude" : 12.8124672
+              },
+              {
+                "latitude" : 52.5023595,
+                "longitude" : 12.8121266
+              },
+              {
+                "latitude" : 52.5023823,
+                "longitude" : 12.811971
+              },
+              {
+                "latitude" : 52.5024378,
+                "longitude" : 12.8119281
+              },
+              {
+                "latitude" : 52.5024885,
+                "longitude" : 12.8119817
+              },
+              {
+                "latitude" : 52.5026534,
+                "longitude" : 12.8128937
+              }
+            ]
+          }
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5019835,
+              "longitude" : 12.8139441
+            },
+            {
+              "latitude" : 52.5019831,
+              "longitude" : 12.8137171
+            },
+            {
+              "latitude" : 52.5020875,
+              "longitude" : 12.8136513
+            },
+            {
+              "latitude" : 52.502181,
+              "longitude" : 12.8137943
+            },
+            {
+              "latitude" : 52.5021788,
+              "longitude" : 12.8139465
+            },
+            {
+              "latitude" : 52.5021123,
+              "longitude" : 12.8140692
+            },
+            {
+              "latitude" : 52.5020337,
+              "longitude" : 12.8140342
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.502078438811786,
+          "longitude" : 12.813861021448233
+        },
+        "holeNumber" : 7,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5056582,
+              "longitude" : 12.8156829
+            },
+            {
+              "latitude" : 52.5056303,
+              "longitude" : 12.8155463
+            },
+            {
+              "latitude" : 52.5056779,
+              "longitude" : 12.8154253
+            },
+            {
+              "latitude" : 52.5057651,
+              "longitude" : 12.815411
+            },
+            {
+              "latitude" : 52.5058263,
+              "longitude" : 12.8155142
+            },
+            {
+              "latitude" : 52.5058154,
+              "longitude" : 12.8156571
+            },
+            {
+              "latitude" : 52.5057406,
+              "longitude" : 12.8157322
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.505730536497914,
+          "longitude" : 12.815567006211703
+        },
+        "holeNumber" : 8,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.5064430231164,
+          "longitude" : 12.816141699760704
+        },
+        "holeNumber" : 9,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.50551506778647,
+            "longitude" : 12.816169537491255
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "green" : {
+          "points" : [
+            {
+              "latitude" : 52.5023591,
+              "longitude" : 12.8143895
+            },
+            {
+              "latitude" : 52.5023565,
+              "longitude" : 12.814239
+            },
+            {
+              "latitude" : 52.5024265,
+              "longitude" : 12.8141419
+            },
+            {
+              "latitude" : 52.5025164,
+              "longitude" : 12.8141713
+            },
+            {
+              "latitude" : 52.5025585,
+              "longitude" : 12.814305
+            },
+            {
+              "latitude" : 52.502521,
+              "longitude" : 12.8144425
+            },
+            {
+              "latitude" : 52.5024323,
+              "longitude" : 12.8144801
+            }
+          ]
+        },
+        "greenCenter" : {
+          "latitude" : 52.50245290766481,
+          "longitude" : 12.814309901058992
+        },
+        "holeNumber" : 10,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.502455210391176,
+          "longitude" : 12.81431336674075
+        },
+        "holeNumber" : 11,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.504688548658024,
+            "longitude" : 12.820809840201617
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "greenCenter" : {
+          "latitude" : 52.503703074688964,
+          "longitude" : 12.822027607903758
+        },
+        "holeNumber" : 12,
+        "teePoints" : {
+          "gelb" : {
+            "latitude" : 52.502777462506344,
+            "longitude" : 12.817409764782973
+          }
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 13,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 14,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 15,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 16,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 17,
+        "teePoints" : {
+
+        }
+      },
+      {
+        "bunkers" : [
+
+        ],
+        "holeNumber" : 18,
+        "teePoints" : {
+
+        }
+      }
+    ]
+  }
+]
