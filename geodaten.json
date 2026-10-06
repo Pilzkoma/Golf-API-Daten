@@ -1211,54 +1211,96 @@
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.50245387150954,
+          "longitude" : 12.828674380281024
+        },
         "holeNumber" : 13,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.50355159043032,
+            "longitude" : 12.823173273091705
+          }
         }
       },
       {
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.50172898878199,
+          "longitude" : 12.830638060404478
+        },
         "holeNumber" : 14,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.50216670715311,
+            "longitude" : 12.828950809692824
+          }
         }
       },
       {
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.504662021187684,
+          "longitude" : 12.823929994282974
+        },
         "holeNumber" : 15,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.502268636373756,
+            "longitude" : 12.8300975479931
+          }
         }
       },
       {
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.50390143456137,
+          "longitude" : 12.823031224793478
+        },
         "holeNumber" : 16,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.50386004717741,
+            "longitude" : 12.824943248921652
+          }
         }
       },
       {
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.505295632869604,
+          "longitude" : 12.822823294734123
+        },
         "holeNumber" : 17,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.50354366900118,
+            "longitude" : 12.82266972297393
+          }
         }
       },
       {
         "bunkers" : [
 
         ],
+        "greenCenter" : {
+          "latitude" : 52.50675061237704,
+          "longitude" : 12.816223497408899
+        },
         "holeNumber" : 18,
         "teePoints" : {
-
+          "gelb" : {
+            "latitude" : 52.505495555217486,
+            "longitude" : 12.822203177647872
+          }
         }
       }
     ]
